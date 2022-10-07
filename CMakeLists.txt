@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.1)
 
-project(lib_template VERSION 0.0.1 LANGUAGES CXX)
+project(mrgui VERSION 0.0.1 LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 20)
 
 option(${PROJECT_NAME}_BUILD_TESTS "Build the unit tests when BUILD_TESTING is enabled." ON)
